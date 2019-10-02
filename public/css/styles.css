@@ -39,3 +39,14 @@ footer{
     margin-top: 16px;
     color: #888888;
 }
+
+input{
+    padding: 10px;
+    border: 1px solid #888888;
+}
+
+button{
+    padding: 10px;
+    background-color: #888888;
+    color: #ffffff;
+}
